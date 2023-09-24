@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi koperasi adalah perangkat lunak yang dirancang khusus untuk membantu dalam pengelolaan dan administrasi koperasi. Koperasi adalah bentuk organisasi ekonomi yang dimiliki dan dioperasikan oleh anggotanya untuk saling mendukung dalam mencapai tujuan ekonomi bersama. Aplikasi koperasi dapat digunakan untuk berbagai tujuan, termasuk manajemen anggota, pencatatan transaksi keuangan, pelacakan inventaris, manajemen pinjaman, dan banyak lagi.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-KoperasiVIP/graphs/commit-activity)
 
